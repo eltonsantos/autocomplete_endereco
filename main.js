@@ -1,5 +1,3 @@
-import './style.css'
-
 document.querySelector('#app').innerHTML = `
   <div id="fade" class="hide">
     <div id="loader" class="spinner-border text-info hide" role="status">
